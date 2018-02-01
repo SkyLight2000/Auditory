@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab", "Lab.vcxproj", "{E1AF99CA-76D3-462D-9926-9D91EF03CE8D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "task_1", "Lab.vcxproj", "{E1AF99CA-76D3-462D-9926-9D91EF03CE8D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "task_2", "task_2\task_2.vcxproj", "{EE8D4BAB-8ABE-4C62-93EE-33DD5D2EF437}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "task_5", "task_2\task_2.vcxproj", "{EE8D4BAB-8ABE-4C62-93EE-33DD5D2EF437}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "task_3", "task_3\task_3.vcxproj", "{8BAEF2D0-CF0F-4C9D-A65C-173A12C455C9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "task_7", "task_3\task_3.vcxproj", "{8BAEF2D0-CF0F-4C9D-A65C-173A12C455C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
