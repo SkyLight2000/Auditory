@@ -5,5 +5,5 @@ Includes:
 - Task_3 (This is №7);
 - Task №2(Folder "2")
 - <b><i>Task3 (NEW!)</i></b>
-- <b><u>Task4 (NEW!)</u></b>
-- <b><u>Task10 (NEW!)</u></b>
+- <b><i>Task4 (NEW!)</i></b>
+- <b><i>Task10 (NEW!)</i></b>
